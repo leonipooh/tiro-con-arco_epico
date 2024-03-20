@@ -1,2 +1,3 @@
-# tiro-con-arco_epico
-si
+# Plantilla C28
+
+Plantilla C28
